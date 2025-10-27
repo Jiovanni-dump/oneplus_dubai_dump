@@ -1,0 +1,14 @@
+# OnePlusTV-user 14 UTT1.240928.001 2503121853 release-keys
+- manufacturer: oneplus
+- platform: mt5867
+- codename: Dubai
+- flavor: Dubai_eu-user
+- release: 14
+- id: UTT1.240928.001
+- incremental: 2503121853
+- tags: release-keys
+- fingerprint: OnePlus/OnePlusTV/Dubai:14/UTT1.240928.001/2503121853:user/release-keys
+- is_ab: true
+- brand: OnePlus
+- branch: OnePlusTV-user-14-UTT1.240928.001-2503121853-release-keys
+- repo: oneplus_dubai_dump

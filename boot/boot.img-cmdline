@@ -1,0 +1,1 @@
+quiet no_autorun_log=1 loglevel=1 dbg_mutex=0 androidboot.boot_devices=mstar_mci.0
